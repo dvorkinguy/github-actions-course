@@ -1,4 +1,5 @@
 # github-actions-course
-# by Schwarzmuller
+
+by Schwarzmuller
 
 This is a demo repository for Git and GitHub.
